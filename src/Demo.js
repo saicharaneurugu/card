@@ -14,7 +14,8 @@ class Demo extends Component {
     	<div class="container">
     	    <div class="row">
     	        <div class="col-md-6 college">
-    	           <p> my name is charan</p>
+    	           <p> my name is charan.
+    	           	</p>
 
 
     	
